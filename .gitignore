@@ -1,0 +1,10 @@
+3Ds/
+_/
+__Previews/
+Folhas de Dados/
+History/
+*.log
+*.SchLib
+*.PcbLib
+*.txt
+*.LibPkg
